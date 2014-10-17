@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ypz:home|Door43 (ypz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ypz|d43-ypz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ypz/archive/master.zip|d43-ypz.zip]]
+
+**Recent Changes**
+{{changes>ns = ypz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ypz|Ethnologue data]]
+
